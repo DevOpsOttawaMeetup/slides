@@ -13,6 +13,8 @@ We will walk through the setup for our local development environment that we are
 
 Slides: [Helm Chart Tutorial](https://www.github.com/jimareed/helm-chart-tutorial)
 
-**Microservice Monitoring, Alerting and Metrics** A quick overview of how we use Prometheus and Grafana as part of our monitoring and alerting infrastructure at Qlik to help manage Qlik Cloud in production.
+#### Microservice Monitoring, Alerting and Metrics
+
+A quick overview of how we use Prometheus and Grafana as part of our monitoring and alerting infrastructure at Qlik to help manage Qlik Cloud in production.
 
 Slides: [Metrics Tutorial](https://www.github.com/jimareed/metrics-tutorial)
